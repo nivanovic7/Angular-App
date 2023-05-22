@@ -1,0 +1,5 @@
+input.ng-invalid,
+textarea.ng.invalid{
+    border: 2px solid red;
+    box-shadow: 0 0  5px 5px rgba(255, 22, 22, 0.2);
+}
